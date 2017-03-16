@@ -31,7 +31,6 @@ class CreateTable extends AbstractMigration
 
     asdasd
     asdasdasd
-    asdasdasdas
     <datalist>
         d
     </datalist>
